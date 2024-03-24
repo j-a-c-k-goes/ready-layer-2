@@ -1,0 +1,18 @@
+For General Pitch Tracks:
+
+[develop]           pitch deck using your preferred slide deck tool.
+
+[create]            recorded video/screen share going over your pitch deck presentation.
+                    presentation should not exceed 4 minutes.
+            
+[demonstrate]       how to utilize and leverage Bitcoin’s programmability via Proof of Transfer, Clarity, and/or sBTC
+                    feasibility within the constraints of existing technology.
+                    
+[promote]           a decentralized economy and align with Bitcoin ethos by maintaining decentralization, security, censorship resistance, and self-sovereignty.
+
+[define]            the problem your idea solves.
+                    your solution to the identified problem.
+                    
+[value-question]    what is the value and/or monetary value your idea creates for the Bitcoin ecosystem?
+
+[bonus]             demo is not required for General Pitch but it absolutely helps!
